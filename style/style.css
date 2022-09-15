@@ -79,12 +79,12 @@ section p {
     
 }
 #img-01{
-    background-image: url('../imagens/background003.jpeg');
+    background-image: url("../public/images/background002.jpg");
     background-position: left bottom;
     
 }
 #img02{
-    background-image: url('../imagens/background002.jpg');
+    background-image: url("../public/images/background003.jpeg");
  
 }
 
